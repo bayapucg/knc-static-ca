@@ -10,8 +10,7 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-													<h2>we are awesome creative agency</h2>
-													<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been</p>
+													<h2>We focus helping clients improve their value addition for better presentation of financials</h2>
 													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>
 												</div>
 											</div>
@@ -27,8 +26,7 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-													<h2>digital creative agency</h2>
-													<p>Lorem Ipsum is simply dummy text of the printing </p>
+													<h2>We provide real time online solution to client’s business needs and solution to their technical issues</h2>
 													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>
 												</div>
 											</div>
@@ -44,8 +42,39 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-													<h2>we are awesome agency</h2>
-													<p>Lorem Ipsum is simply dummy text of the printing </p>
+													<h2>We are one stop financials solutions in India</h2>
+													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+                        <div class="item">
+							<div class="single-slide-item slide-4">
+								<div class="single-slide-item-table">
+									<div class="single-slide-item-tablecell">
+										<div class="container">
+											<div class="row">
+												<div class="col-md-12">
+													<h2>We are leading chartered accountant firm in Hyderabad</h2>
+													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+                        <div class="item">
+							<div class="single-slide-item slide-5">
+								<div class="single-slide-item-table">
+									<div class="single-slide-item-tablecell">
+										<div class="container">
+											<div class="row">
+												<div class="col-md-12">
+													<h2>We deal with Incorporations, Registration, Compliances of all businesses and various consultancy services</h2>
 													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>
 												</div>
 											</div>
@@ -265,28 +294,28 @@
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-check"></i>
-							<h2 class="timer"> 2500</h2>  
-							<h5>Entrepreneurs Served</h5>
+							<h2 class="timer"> 2000</h2>  
+							<h5>Clients Served</h5>
 						</div>
 					</div> <!--- END COL -->   
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-check"></i>
-							<h2 class="timer">282</h2>  
-							<h5>Professionals Network</h5>
+							<h2 class="timer">100</h2>  
+							<h5>Professional Network</h5>
 						</div>
 					</div><!--- END COL -->   
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-check"></i>
-							<h2 class="timer"> 20</h2>							
+							<h2 class="timer">2</h2>					
 							<h5>Cities Present</h5>
 						</div>
 					</div> <!--- END COL --> 
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-check"></i>
-							<h2 class="timer">50</h2> 
+							<h2 class="timer">10</h2> 
 							<h5>Team Strength</h5>
 						</div>
 					</div> <!--- END COL -->                
@@ -324,7 +353,7 @@
 						<div></div>
 					</div>
 		<div class="span12">
-			<div id="myCarousel" class="carousel slide">
+			<div id="myCarousel" class="">
                 
                 <!-- Carousel items -->
                 <div class="carousel-inner">
@@ -332,7 +361,7 @@
                     <div class="item active">
                         <div class="row">
                             <div class="col-sm-3 card wid-24">
-								<a href="#" class="thumbnail"><img src="assets/img/latest/5.jpg" alt="Image" class="img-responsive"></a>
+								<a href="https://www.gst.gov.in/" class="thumbnail"><img src="assets/img/latest/5.jpg" alt="Image" class="img-responsive"></a>
 								<div class="text-center ">
 									<h4>Lorem Ipsum is simply</h4>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -340,7 +369,7 @@
 							
                             </div>
 							<div class="col-sm-3 card wid-24">
-								<a href="#" class="thumbnail"><img src="assets/img/latest/4.jpg" alt="Image" class="img-responsive"></a>
+								<a href="https://www.incometaxindiaefiling.gov.in/" class="thumbnail"><img src="assets/img/latest/4.jpg" alt="Image" class="img-responsive"></a>
 								<div class="text-center ">
 									<h4>Lorem Ipsum is simply</h4>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -348,7 +377,7 @@
 							
                             </div>
 							<div class="col-sm-3 card wid-24">
-								<a href="#" class="thumbnail"><img src="assets/img/latest/3.jpg" alt="Image" class="img-responsive"></a>
+								<a href="http://www.mca.gov.in/" class="thumbnail"><img src="assets/img/latest/3.jpg" alt="Image" class="img-responsive"></a>
 								<div class="text-center ">
 									<h4>Lorem Ipsum is simply</h4>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -356,7 +385,7 @@
 							
                             </div>
 							<div class="col-sm-3 card wid-24">
-								<a href="#" class="thumbnail"><img src="assets/img/latest/2.jpg" alt="Image" class="img-responsive"></a>
+								<a href="https://www.tin-nsdl.com/" class="thumbnail"><img src="assets/img/latest/2.jpg" alt="Image" class="img-responsive"></a>
 								<div class="text-center ">
 									<h4>Lorem Ipsum is simply</h4>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -368,6 +397,7 @@
                         <!--/row-->
                     </div>
                     <!--/item-->
+<!--
                     <div class="item">
                        <div class="row">
                             <div class="col-sm-3 card wid-24">
@@ -404,8 +434,9 @@
                             </div>
                            
                         </div>
-                        <!--/row-->
+                        /row
                     </div>
+-->
                     <!--/item-->
                 </div>
                 <!--/carousel-inner--> 
@@ -493,10 +524,11 @@
 							<h3>Contact Us</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum ante vel aliquet euismod. Curabitur accumsan vitae augue vitae.</p>						
 							<ul>
-								<li><i class="fa fa-rocket"></i>2369 Robinson Lane Jackson,OH 45640</li>
-								<li><i class="fa fa-phone"></i>(+1) 740-395-3829</li>
-								<li><i class="fa fa-envelope"></i>Info@greatway.com</li>
-								<li><i class="fa fa-clock-o"></i>Mon - Fri: 08.00 - 16.00</li>
+								<li><i class="fa fa-envelope"></i>admin@kncandassociates.com</li>
+								<li><i class="fa fa-phone"></i>9966669670</li>
+								
+                                <li><i class="fa fa-building-o"></i>We are at FF14 United arcade, Pillar no. 143 Attapur, Hyderabad-500048, Telangana, India.</li>
+								<li><i class="fa fa-clock-o"></i>Mon - Fri: 9:00 Am – 9:00 Pm </li>
 							</ul>
 						</div>
 					</div><!-- END COL -->						
@@ -586,20 +618,20 @@
     <tbody>
       <tr>
         <th>Bank Name</th>
-        <td>State Bank of India</td>
+        <td>United Bank of India</td>
         
       </tr>
       <tr>
-       <th>Account holder Name</th>
-        <td>Dummy name</td>
+       <th>Account Holder Name</th>
+        <td>KNC & Associates</td>
       </tr>
 	  <tr>
        <th>Account Number</th>
-        <td>10005036789</td>
+        <td>1582050002257</td>
       </tr> 
 	  <tr>
        <th>IFSC Code</th>
-        <td>SBIN0011664</td>
+        <td>UTBI0MPM853</td>
        
       </tr>
      

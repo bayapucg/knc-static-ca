@@ -6,6 +6,7 @@
 					<div class="col-sm-12 text-center wow zoomIn">
 						<div class="footer_content">
 							<a href="index.php"><img class="img-responsive" src="assets/img/logo.png" alt="" style="margin:0 auto;"></a>
+<!--
 							<div class="footer_social">
 								<ul>
 									<li><a class="f_facebook  wow bounceInDown" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -16,6 +17,7 @@
 									<li><a class="f_skype wow bounceInDown" data-wow-delay=".5s" href="#"><i class="fa fa-skype"></i></a></li>
 								</ul>
 							</div>	
+-->
 							<p>knc and Associates  chartered Accountansts</p>
 						</div>
 												
