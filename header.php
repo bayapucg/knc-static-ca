@@ -8,7 +8,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"> 
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<!-- SITE TITLE -->
-		<title>KNC & Associates </title>			
+		<title>KNC & Associates </title>
+        <link rel="icon" href="assets/img/favicon.png">
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/css/custom.css">	
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
@@ -51,7 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-					<a href="index.php" class="navbar-brand"><img style="width:auto;height:60px;" src="assets/img/logo.png" alt="logo" ></a>
+					<a href="index.php" class="navbar-brand"><img src="assets/img/logo.png" alt="logo" ></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <nav>
@@ -126,7 +127,7 @@
 							  </ul>
 							</li>
 							
-							<li><a class="page-scroll" href="#">Careers</a></li>
+							<li><a class="page-scroll" data-toggle="modal" data-target="#careersModal" href="#">Careers</a></li>
 							<li><a class="page-scroll" href="#latestnew">Latest updates</a></li>
 							<li><a class="page-scroll"   data-toggle="modal" data-target="#squarespaceModal">Book Appointment</a></li>
 							<li><a class="page-scroll" href="#contact">Contact</a></li>

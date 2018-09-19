@@ -842,9 +842,10 @@ padding: 50px;
 	color: #fff;
 	box-shadow: 0px 11px 10px 0px rgba(0,0,0,0.1);
 }
-.counter h2 {
+.counter label, .counter span{
     color: #161616;
     font-weight: 700;
+    font-size: 30px;
     margin-top: 0;
 }
 .counter h5 {

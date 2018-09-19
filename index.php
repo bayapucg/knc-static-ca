@@ -325,28 +325,28 @@
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-user"></i>
-							<h2 class="timer"> 2000</h2>  
+							<label class="timer"> 2000</label><span>&nbsp;+</span>  
 							<h5>Clients Served</h5>
 						</div>
 					</div> <!--- END COL -->   
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-sitemap"></i>
-							<h2 class="timer">100</h2>  
+							<label class="timer">100</label><span>&nbsp;+</span>   
 							<h5>Professional Network</h5>
 						</div>
 					</div><!--- END COL -->   
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-map-marker"></i>
-							<h2 class="timer">2</h2>					
-							<h5>Hyderabad, Secunderabad</h5>
+							<label class="timer">2</label> 					
+							<h5>Cities</h5>
 						</div>
 					</div> <!--- END COL --> 
 					<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="counter">
 							<i class="fa fa-users"></i>
-							<h2 class="timer">10</h2> 
+							<label class="timer">10</label><span>&nbsp;+</span>  
 							<h5>Team Strength</h5>
 						</div>
 					</div> <!--- END COL -->                
@@ -653,7 +653,7 @@
 	<div class="modal-content">
 		<div class="modal-header bg-primary ">
 			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-			<h3 class="modal-title text-white" id="lineModalLabel">MAIL US</h3>
+			<h3 class="modal-title text-white" id="lineModalLabel">Get In Touch</h3>
 		</div>
 		<div class="modal-body text-left">
 		<div class="col-md-12">
@@ -685,6 +685,57 @@
 					<button type="button" class="btn btn-warning" data-dismiss="modal"  role="button">Close</button>
 				</div>
 			
+				<div class="btn-group" role="group">
+					<button type="submit" id="saveImage" class="btn btn-success " data-action="save" role="button">Submit</button>
+				</div>
+			</div>
+				
+		  </form>
+		</div>
+		
+	
+		</div>
+		<div class="modal-footer" style="border:none;">
+			
+		</div>
+	</div>
+  </div>
+</div>
+
+<div class="modal fade" id="careersModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+  <div class="modal-dialog bg-modal mod-small" >
+	<div class="modal-content">
+		<div class="modal-header bg-primary ">
+			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+			<h3 class="modal-title text-white" id="lineModalLabel">Join with Us</h3>
+		</div>
+		<div class="modal-body text-left">
+		<div class="col-md-12">
+			<form action="appointment.php" method="post">
+			<div class="form-group">
+			  <label for="email">Name</label>
+			  <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name" >
+			</div>
+			<div class="form-group">
+			  <label for="email">Email</label>
+			  <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" >
+			</div>
+			<div class="form-group">
+			  <label for="">Mobile Number</label>
+			  <input type="text" class="form-control" id="mobile" placeholder="Enter Mobile number" name="mobile">
+			</div>
+			<div class="form-group">
+			  <label for="attach">Attachment</label>
+			  <input type="file" class="form-control" id="attach">
+			</div>
+			<div class="form-group">
+			  <label for="">Message</label>
+			  <textarea type="text" class="form-control" id="message" name="message" placeholder="Enter Mobile number"></textarea>
+			</div>
+			<div class="" role="group" aria-label="group button">
+				<div class="btn-group" role="group">
+					<button type="button" class="btn btn-warning" data-dismiss="modal"  role="button">Close</button>
+				</div>
 				<div class="btn-group" role="group">
 					<button type="submit" id="saveImage" class="btn btn-success " data-action="save" role="button">Submit</button>
 				</div>
