@@ -10,8 +10,8 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-													<h2>We focus helping clients improve their value addition for better presentation of financials</h2>
-<!--													<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>-->
+													<h2 style="line-height:50px">We focus helping clients improve their value addition for better presentation of financials</h2>
+										<!--<a class="btn btn-default btn-home-bg page-scroll" href="#video">Discover More</a>-->
 												</div>
 											</div>
 										</div>
@@ -26,7 +26,7 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-													<h2>We provide real time online solution to client’s business needs and solution to their technical issues</h2>
+													<h2 style="line-height:50px">We provide real time online solution to client’s business needs and solution to their technical issues</h2>
 													
 												</div>
 											</div>
@@ -280,29 +280,31 @@
 							<p>Foundation Course is the entry level for Chartered Accountancy Course. Students after appearing in class 12th examination conducted by an examining body constituted by law in India can register for Foundation Course.</p>
 						</div>
 					</div><!--END COL -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+                    <div class="col-md-3 col-sm-3 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<i class="fa fa-registered"></i>
                             <h4>Encooperation / Registration </h4>
-							<p style="margin-top:17px;"> Procure Digital Signature Certificate: The first and foremost step is to procure the DSCs of the Personnel involved in Private Company Incorporation in India. Obtain Director Identification Number. Reservation of Name. Certificate of Incorporation.</p>
+							<p > Procure Digital Signature Certificate: The first and foremost step is to procure the DSCs of the Personnel involved in Private Company Incorporation in India. Obtain Director Identification Number. Reservation of Name. Certificate of Incorporation.</p>
 						</div>
 					</div><!--END COL -->
-					<div class="col-md-4 col-sm-4 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-md-3 col-sm-3 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<i class="fa fa-cogs"></i>
 							<h4>Management Consulting Services</h4>
 							<p>Management consultants help businesses improve their performance and grow by solving problems and finding new and better ways of doing things. It's not just in the private sector either many firms work with public sector.</p>
+							<div class="clearfix">&nbsp;</div>
 						</div>
 					</div><!--END COL -->
 					
-					<div class="col-md-4 col-sm-4 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-md-3 col-sm-3 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<i class="fa fa-th-large"></i>
 							<h4>Accepting PAN/TAN Applications</h4>
 							<p>An applicant can visit Income Tax Department (ITD) website to find whether a PAN has been allotted to him or not. Read Guidelines. Read Instructions. Documents to be Submitted.To apply for a new TAN visit www.tin-nsdl.com/index.html.</p>
+							<div class="clearfix">&nbsp;</div>
 						</div>
 					</div><!--END COL -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+                    <div class="col-md-3 col-sm-3 col-xs-12 no-padding wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_service">
 							<i class="fa fa-certificate"></i>
 							<h4>Digital Signature Certificate</h4>
@@ -510,44 +512,6 @@
 		</section>
 		<!-- END NEWSLETTER -->
 
-
-		
-		<!-- START COMPANY PARTNER LOGO  -->
-		<div class="partner-logo section-padding">
-			<div class="partner_overlay">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-							<div class="partner wow fadeInRight">
-						    	<a href="#" target="_blank"><img src="assets/img/partner/1.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/2.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/3.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/4.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/5.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/6.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/1.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/2.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/3.png" alt="image"></a>
-						    	<a href="#" target="_blank"><img src="assets/img/partner/4.png" alt="image"></a>
-							</div>
-						</div><!-- END COL  -->
-					</div><!--END  ROW  -->
-				</div><!-- END CONTAINER  -->
-			</div><!-- END OVERLAY -->
-		</div>
-		<!-- END COMPANY PARTNER LOGO -->
-
-		
-		
-		<!-- PROMOTION -->
-		<section class="buy_now">
-			<div class="container text-center">
-				<h3 class="buy_now_title">Are you ready for your next project?<a href="#" class="btn btn-default btn-promotion-bg">Hire us</a> </h3>
-			</div><!--- END CONTAINER -->
-		</section>
-		<!-- END PROMOTION -->
-		
-		<!-- START CONTACT FORM-->
 		
 		<section id="contact" class="contact_area section-padding">
 			<div class="container">
@@ -560,7 +524,8 @@
 								<li><i class="fa fa-envelope"></i>admin@kncandassociates.com</li>
 								<li><i class="fa fa-tty"></i>040-24016696</li>
 								<li><i class="fa fa-phone"></i>9966669670</li>
-                                <li><i class="fa fa-building-o"></i><span>We are at FF14 United arcade, Pillar no. 143 Attapur, Hyderabad-500048, Telangana, India.</span></li>
+                                <li class="text-center"><i class="fa fa-building-o"></i> <span>We are at FF14 United arcade, Pillar no. 143 Attapur, Hyderabad-500048,<span > Telangana, India.</span></span></li>
+								
 								<li><i class="fa fa-clock-o"></i>Mon - Fri : 9:00 Am – 9:00 Pm </li>
                                 
 							</ul>

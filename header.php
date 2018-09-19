@@ -51,7 +51,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-					<a href="index.php" class="navbar-brand"><img src="assets/img/logo.png" alt="logo" class="img-responsive"></a>
+					<a href="index.php" class="navbar-brand"><img style="width:auto;height:60px;" src="assets/img/logo.png" alt="logo" ></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <nav>
