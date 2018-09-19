@@ -51,7 +51,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-					<a href="index.php" class="navbar-brand"><img src="assets/img/logo.png" alt="logo"></a>
+					<a href="index.php" class="navbar-brand"><img src="assets/img/logo.png" alt="logo" class="img-responsive"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <nav>
@@ -66,26 +66,26 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Return Filing<i class="fa fa-caret-right pull-right" aria-hidden="true"></i>   </a> 
 							  
 								<ul class="dropdown-menu sub-alg">
-								  <li class=""><a href="#">GST Return Filings </a></li>
+								  <li class=""><a href="#" data-toggle="modal" data-target="#servicesModal">GST Return Filings </a></li>
 									<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Income Tax Return Filings</a>
 										<ul class="dropdown-menu sub-alg">
 											
-											<li><a href="#">Companies</a></li>
-											<li><a href="#">Firms</a></li>
-											<li><a href="#">Industries</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Companies</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Firms</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Industries</a></li>
 																			  
 										</ul>
 									</li>
 									<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">TDS/TCS Return Filings</a>
 										<ul class="dropdown-menu sub-alg">
 											
-											<li><a href="#">Filing Of Form 24 Q</a></li>
-											<li><a href="#">Filing Of Form 26 Q</a></li>
-											<li><a href="#">Filing Of Form 27 Q</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Filing Of Form 24 Q</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Filing Of Form 26 Q</a></li>
+											<li><a href="#" data-toggle="modal" data-target="#servicesModal">Filing Of Form 27 Q</a></li>
 																			  
 										</ul>
 									</li>
-								  
+								    <li class=""><a href="#" data-toggle="modal" data-target="#servicesModal">ROC Filing </a></li>
 																	 
 								</ul>
 							</li>
@@ -93,36 +93,36 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Audits <i class="fa fa-caret-right pull-right" aria-hidden="true"></i></a> 
 							  
 								<ul class="dropdown-menu sub-alg">
-									<li class=""><a href="#">Statutary Audit</a></li>
-									<li><a href="#">Private Companies, Banks</a></li>
-									<li class="active"><a href="#">Trust</a></li>
-									<li><a href="#">Societies</a></li>
-									<li><a href="#">Industrial Audits</a></li>
+									<li class=""><a href="#" data-toggle="modal" data-target="#servicesModal">Statutary Audit</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Private Companies, Banks</a></li>
+									<li class="active"><a href="#" data-toggle="modal" data-target="#servicesModal">Trust</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Societies</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Individual Audits</a></li>
 								</ul>
 							</li>
 							<li class="dropdown ">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Registrations <i class="fa fa-caret-right pull-right" aria-hidden="true"></i></a> 
 							  
 								<ul class="dropdown-menu sub-alg">
-									<li class=""><a href="#">GST</a></li>
-									<li><a href="#">Partnership Firms</a></li>
-									<li class="active"><a href="#">Society</a></li>
-									<li><a href="#">Trust</a></li>
+									<li class=""><a href="#" data-toggle="modal" data-target="#servicesModal">GST</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Partnership Firms</a></li>
+									<li class="active"><a href="#" data-toggle="modal" data-target="#servicesModal">Society</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Trust</a></li>
 								</ul>
 							</li>
 							<li class="dropdown ">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Encooperation /Registration <i class="fa fa-caret-right pull-right" aria-hidden="true"></i></a> 
 							  
 								<ul class="dropdown-menu sub-alg">
-									<li class=""><a href="#">Encooperation Of Pvt Ltd / Public Ltd</a></li>
-									<li><a href="#">Registration Of Partnership Firm</a></li>
-									<li class="active"><a href="#">Registration Of Society</a></li>
-									<li><a href="#">Registration Of Trust</a></li>
+									<li class="" data-toggle="modal" data-target="#servicesModal"><a href="#">Encooperation Of Pvt Ltd / Public Ltd</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Registration Of Partnership Firm</a></li>
+									<li class="active"><a href="#" data-toggle="modal" data-target="#servicesModal">Registration Of Society</a></li>
+									<li><a href="#" data-toggle="modal" data-target="#servicesModal">Registration Of Trust</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Management Consulting Services</a></li>
+							<li><a href="" data-toggle="modal" data-target="#servicesModal">Management Consulting Services</a></li>
 							<li><a href="assets/pdf/pan.pdf" target="_blank">Accepting PAN/TAN Applications</a></li>
-								
+							<li><a href="" data-toggle="modal" data-target="#servicesModal">Digital Signature Certificate</a></li>	
 							  </ul>
 							</li>
 							
